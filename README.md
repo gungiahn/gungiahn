@@ -17,7 +17,7 @@
 ## [ 수강 과목 ]
 월|화|수|목
 :---|:---:|:---:|---:
-va1|va2|va3|va4
-va5|va6|va7|va8
-va9|va10|va11|va12
-va13|va14|va15|va16
+회로|C++|Linux|Linux
+회로|C++|Linux|Linux
+python|Drone|C++|통계
+python|Drone|C++|통계
